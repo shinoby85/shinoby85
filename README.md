@@ -51,7 +51,7 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
   * Virtual Keyboard (Rolling Scope project)   ***[Link](https://zhenya85.github.io/virtual-keyboard/)***
 
 :star2: Angular (practice)
-  * Planer   ***[Link](https://shinoby85.github.io/newplaner/home)
+  * Planer   ***[Link](https://shinoby85.github.io/newplaner/home)***
 
 
 ## Education
