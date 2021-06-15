@@ -16,6 +16,12 @@
 I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 2020 (web page). It was homework for the GeekBrains courses, and it was awesome. Today I have a goal improve my skills with EPAM Training Center. I want to work for big company.
 
 ## Skills
+
+<img src="images/angular.jpg" align="right" width="350" alt="js label">
+
+:star2: Angular (practice)
+  * Planer   ***[Link](https://shinoby85.github.io/newplaner/home)***
+
 <img src="images/develop.gif" align="right" width="400" alt="dev animate">
 
 |My skils|Level (0-9)|
@@ -27,7 +33,7 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
 
 
 ## Experience
-<img src="images/html-css.jpg" align="right" width="250" alt="html label">
+<img src="images/html-css.jpg" align="right" width="350" alt="html label">
 
 :star2: HTML/CSS (Suits & Landing pages)
   * CoralWater (my first project) ***[Link](https://zhenya85.github.io/coralwater/)***
@@ -40,7 +46,7 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
   * Webdev (Rolling Scope project)   ***[Link](https://zhenya85.github.io/webdev/)***
   * Shelter (Rolling Scope project)   ***[Link](https://zhenya85.github.io/shelter/)***
 
-<img src="images/js.png" align="right" width="250" alt="js label">
+<img src="images/js.png" align="right" width="350" alt="js label">
 
 
 
@@ -52,12 +58,7 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
   * Momentum (Rolling Scope project)   ***[Link](https://zhenya85.github.io/momentum/)***
   * Virtual Keyboard (Rolling Scope project)   ***[Link](https://zhenya85.github.io/virtual-keyboard/)***
 
-<img src="images/angular.jpg" align="right" width="250" alt="js label">
 
-:star2: Angular (practice)
-  * Planer   ***[Link](https://shinoby85.github.io/newplaner/home)***
-
-<br>
 
 ## Education
 
