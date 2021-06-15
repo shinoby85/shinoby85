@@ -50,6 +50,10 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
   * Momentum (Rolling Scope project)   ***[Link](https://zhenya85.github.io/momentum/)***
   * Virtual Keyboard (Rolling Scope project)   ***[Link](https://zhenya85.github.io/virtual-keyboard/)***
 
+:star2: Angular (practice)
+  * Planer   ***[Link](https://shinoby85.github.io/newplaner/home)
+
+
 ## Education
 <img align='right' alt='sert' src="images/education.jpg" width="350"/>
 
@@ -63,8 +67,7 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
 :mortar_board: English course by Streamline
 
 ## English
-A1+
-I studied English on Streamline for about 1 year (Elementary level). I am currently studying English with a personal teacher.
+A2
 
 
 [1]:https://vk.com/eponk
