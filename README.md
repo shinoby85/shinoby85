@@ -17,11 +17,6 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
 
 ## Skills
 
-<img src="images/angular.jpg" align="right" width="350" alt="js label">
-
-:star2: Angular (practice)
-  * Planer   ***[Link](https://shinoby85.github.io/newplaner/home)***
-
 <img src="images/develop.gif" align="right" width="400" alt="dev animate">
 
 |My skils|Level (0-9)|
@@ -33,6 +28,11 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
 
 
 ## Experience
+
+<img src="images/angular.jpg" align="right" width="350" alt="js label">
+
+:star2: Angular (practice)
+  * Planer   ***[Link](https://shinoby85.github.io/newplaner/home)***
 <img src="images/html-css.jpg" align="right" width="350" alt="html label">
 
 :star2: HTML/CSS (Suits & Landing pages)
