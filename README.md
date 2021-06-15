@@ -9,7 +9,6 @@
 |A1:|*+375297337462*|
 |Discord:|*shinoby85*|
 |Skype:|*jshinoby*|
-|LinkedIn:|*[Link](https://www.linkedin.com/in/yauheni-pankratsyeu-b172b5152/)*|
 
 [![VK](images/vk.png)][1][![Facebook](images/f.png)][2][![LinkedIn](images/ld.png)][3]
 
