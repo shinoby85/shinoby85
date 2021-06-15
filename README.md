@@ -27,7 +27,7 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
 
 
 ## Experience
-<img src="images/html-css.jpg" align="right" width="450" alt="html label">
+<img src="images/html-css.jpg" align="right" width="350" alt="html label">
 
 :star2: HTML/CSS (Suits & Landing pages)
   * CoralWater (my first project) ***[Link](https://zhenya85.github.io/coralwater/)***
@@ -40,7 +40,7 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
   * Webdev (Rolling Scope project)   ***[Link](https://zhenya85.github.io/webdev/)***
   * Shelter (Rolling Scope project)   ***[Link](https://zhenya85.github.io/shelter/)***
 
-<img src="images/js.png" align="right" width="450" alt="js label">
+<img src="images/js.png" align="right" width="350" alt="js label">
 
 :star2: JavaScript (practice)
   * Fastfood  ***[Link](https://zhenya85.github.io/Fastfood/)***
@@ -49,6 +49,8 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
   * Calculator (Rolling Scope project)   ***[Link](https://zhenya85.github.io/calculator/)***
   * Momentum (Rolling Scope project)   ***[Link](https://zhenya85.github.io/momentum/)***
   * Virtual Keyboard (Rolling Scope project)   ***[Link](https://zhenya85.github.io/virtual-keyboard/)***
+
+<img src="images/angular.jpg" align="right" width="350" alt="js label">
 
 :star2: Angular (practice)
   * Planer   ***[Link](https://shinoby85.github.io/newplaner/home)***
