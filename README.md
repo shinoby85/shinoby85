@@ -42,7 +42,7 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
 
 <img src="images/js.png" align="right" width="350" alt="js label">
 
-<img src="images/angular.jpg" align="right" width="350" alt="js label">
+
 
 :star2: JavaScript (practice)
   * Fastfood  ***[Link](https://zhenya85.github.io/Fastfood/)***
@@ -52,11 +52,12 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
   * Momentum (Rolling Scope project)   ***[Link](https://zhenya85.github.io/momentum/)***
   * Virtual Keyboard (Rolling Scope project)   ***[Link](https://zhenya85.github.io/virtual-keyboard/)***
 
-
+<img src="images/angular.jpg" align="right" width="350" alt="js label">
 
 :star2: Angular (practice)
   * Planer   ***[Link](https://shinoby85.github.io/newplaner/home)***
 
+<br>
 
 ## Education
 
