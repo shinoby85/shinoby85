@@ -57,6 +57,8 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
 ## Education
 <img align='right' alt='sert' src="images/education.jpg" width="350"/>
 
+:mortar_board: Epam Training Center (11.2020-03.2021)
+
 :mortar_board: GeekBrains courses
    - HTML/CSS (**_[certificate](https://geekbrains.ru/certificates/633912.en)_**)
    - HTML5/CSS3 (**_[certificate](https://geekbrains.ru/certificates/351259.en)_**)
@@ -64,7 +66,7 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
   
 :mortar_board: ITStep courses
 
-:mortar_board: English course by Streamline
+:mortar_board: English course by LangOffice
 
 ## English
 A2
