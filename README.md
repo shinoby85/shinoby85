@@ -28,7 +28,9 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
 
 ## Experience
 <img src="images/html-css.jpg" align="right" width="350" alt="html label">
+
 <img src="images/js.png" align="right" width="350" alt="js label">
+
 <img src="images/angular.jpg" align="right" width="350" alt="js label">
 
 :star2: HTML/CSS (Suits & Landing pages)
