@@ -55,9 +55,12 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
 
 
 ## Education
-<img align='right' alt='sert' src="images/education.jpg" width="350"/>
+
+<img align='right' alt='sert' src="images/epam.jpg" width="250"/>
 
 :mortar_board: Epam Training Center (11.2020-03.2021)
+
+<img align='right' alt='sert' src="images/education.jpg" width="250"/>
 
 :mortar_board: GeekBrains courses
    - HTML/CSS (**_[certificate](https://geekbrains.ru/certificates/633912.en)_**)
