@@ -21,9 +21,9 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
 
 |My skils|Level (0-9)|
 |----:|:----:|
-|HTML/CSS|7|
-|JavaScript|7|
-|Git|6|
+|HTML/CSS|8|
+|JavaScript|8|
+|Git|8|
 |C#|6|
 
 
