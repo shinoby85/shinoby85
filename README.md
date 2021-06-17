@@ -1,4 +1,4 @@
-<img align="left" alt="My photo" src="images/myImg.jpg" width="260" >
+<img align="left" alt="My photo" src="images/myImgNew.jpg" width="260" >
 
 # YAUHENI PANKRATSYEU
 
