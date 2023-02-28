@@ -111,8 +111,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[x] HTML
-[x] JavaScript
-[x] ReactJs
-[ ] Angular
