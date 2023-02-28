@@ -110,3 +110,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[ ] HTML
+[ ] JavaScript
+[ ] ReactJs
+[ ] Angular
