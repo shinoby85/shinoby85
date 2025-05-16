@@ -60,6 +60,10 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
 :star2: Angular (practice)
   * Planer   ***[Link](https://shinoby85.github.io/newplaner/home)***
 
+:star2:  Коммерческие проекты
+ * StyleRow ***[Link](https://www.stylerow.com/)*** Позиция: Angular Developer. Продолжительность: 2022-2024
+ * EXOS ***[Link](https://www.teamexos.com/)*** Позиция: React Developer. Продолжительность: 2021-2022
+ * Embello ***[Link](https://livingbydesignshowhouse.com/)*** Позиция: Angular Developer. Продолжительность: 2021-2022
 
 
 ## Education
@@ -74,7 +78,12 @@ I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 202
    - HTML/CSS (**_[certificate](https://geekbrains.ru/certificates/633912.en)_**)
    - HTML5/CSS3 (**_[certificate](https://geekbrains.ru/certificates/351259.en)_**)
    - JavaScript (**_[certificate](https://geekbrains.ru/certificates/788710.en)_**)
-  
+
+:mortar_board: Udemy courses
+- React - The Complete Guide 2025 (incl. Next.js, Redux) (**_[certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-82f45f66-d125-4022-8da5-f4961b5e1bdb.jpg)_**)
+- JavaScript Unit Testing - The Practical Guide (**_[certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-076c0de4-3c85-4ca9-968f-843e74f9f24a.jpg)_**)
+- Cypress End-to-End Testing - Getting Started (**_[certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-55f93a35-19fd-4160-b950-ac9dfc945598.jpg)_**)
+
 :mortar_board: ITStep courses
 
 :mortar_board: English course by LangOffice
