@@ -10,7 +10,7 @@
 |Discord:|*shinoby85*|
 |Skype:|*jshinoby*|
 
-[![LinkedIn](images/ld.png)][3][![LinkedIn](images/ld.png)][3]
+[![LinkedIn](images/ld.png)][3][![CV](images/cv.png)][1]
 
 ## Summary
 I am actively developing in the direction of FrontEnd development and have experience in SPA 
@@ -99,7 +99,7 @@ development lifecycle. Have good communication skills.
 A2
 
 
-[1]:https://vk.com/eponk
+[1]:https://drive.google.com/file/d/1QV_cVO51sBTxlzwSTYmHrnzz2d_YYiWj/view?usp=sharing
 [2]:https://www.facebook.com/profile.php?id=100000615839048
 [3]:https://www.linkedin.com/in/yauheni-pankratsyeu-b172b5152/
 
