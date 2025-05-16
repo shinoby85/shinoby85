@@ -24,7 +24,7 @@ development lifecycle. Have good communication skills.
 
 |My skils|Level (0-9)|
 |----:|:----:|
-|HTML/CSS|8|
+|HTML/CSS, HTML5/CSS3|8|
 |JavaScript|8|
 |Angular v.16-19|7|
 |TypeScript|7|
