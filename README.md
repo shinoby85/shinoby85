@@ -13,7 +13,10 @@
 [![VK](images/vk.png)][1][![Facebook](images/f.png)][2][![LinkedIn](images/ld.png)][3]
 
 ## Summary
-I work for BTI as a C# developer, but I like FrontEnd. I did my first job in 2020 (web page). It was homework for the GeekBrains courses, and it was awesome. Today I have a goal improve my skills with EPAM Training Center. I want to work for big company.
+I am actively developing in the direction of FrontEnd development and have experience in SPA 
+websites development based on a modern frameworks (Angular CLI, ReactJS, NextJS). There 
+are also skills in working with Oracle SQL and MongoDB. Excellent understanding of the software 
+development lifecycle. Have good communication skills.
 
 ## Skills
 
