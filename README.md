@@ -10,7 +10,7 @@
 |Discord:|*shinoby85*|
 |Skype:|*jshinoby*|
 
-[![LinkedIn](images/ld.png)][3]
+[![LinkedIn](images/ld.png)][3][![LinkedIn](images/)][1]
 
 ## Summary
 I am actively developing in the direction of FrontEnd development and have experience in SPA 
