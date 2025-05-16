@@ -26,8 +26,12 @@ development lifecycle. Have good communication skills.
 |----:|:----:|
 |HTML/CSS|8|
 |JavaScript|8|
-|Git|8|
-|C#|6|
+|Angular v.16-19|8|
+|TypeScript|8|
+|RxJs|8|
+|NgRx|8|
+|GitHub, GitLab, Bitbucket|8|
+|Figma, Zeplin, Photoshop|9|
 
 
 ## Experience
