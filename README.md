@@ -67,7 +67,7 @@ development lifecycle. Have good communication skills.
 :star2: Angular (practice)
   * Planer   ***[Link](https://shinoby85.github.io/newplaner/home)***
 
-:star2:  Коммерческие проекты
+:star2:  **Коммерческие проекты**
  * StyleRow ***[Link](https://www.stylerow.com/)*** Позиция: Angular Developer. Продолжительность: 2022-2024
  * EXOS ***[Link](https://www.teamexos.com/)*** Позиция: React Developer. Продолжительность: 2021-2022
  * Embello ***[Link](https://livingbydesignshowhouse.com/)*** Позиция: Angular Developer. Продолжительность: 2021-2022
